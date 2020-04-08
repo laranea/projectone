@@ -1,2 +1,2 @@
 # projectone
-my first project
+my github repository
